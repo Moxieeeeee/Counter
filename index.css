@@ -8,7 +8,7 @@ body {
 
 .container {
     background: rgba(255, 255, 255, 0.5);
-    max-width: 80%;
+    max-width: 30%;
     margin: auto;
     border: 3px double purple;
     border-radius: 10px;
