@@ -10,6 +10,7 @@ body {
     background: rgba(255, 255, 255, 0.5);
     max-width: 50%;
     margin: auto;
+    margin-top: 10%
     border: 3px double purple;
     border-radius: 10px;
 }
